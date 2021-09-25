@@ -9,6 +9,7 @@ This application is a simple base project which has below features points:
 - [TabView Navigation](https://reactnavigation.org/docs/tab-based-navigation/)
 - [Drawer Navigation](https://reactnavigation.org/docs/drawer-based-navigation)
 - [Stack Navigation](https://reactnavigation.org/)
+- [React Redux](https://react-redux.js.org/introduction/getting-started)
 
 ## App Overview
  The app contains all navigtion which is used for navigation (Drawer, BottomTabView and Stack Navogation). Also this app includes React Redux.
